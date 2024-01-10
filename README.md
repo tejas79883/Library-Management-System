@@ -21,5 +21,5 @@ These are some library you need to run the project, i put the pip installation t
 ```
 ## Output
 
-![Output](https://drive.google.com/file/d/1bYAVBkvOm2FWXsflPIMWe4Pxux9-u_jP/view?usp=sharing)
+![output image](https://github.com/tejas79883/E-Commerce_Data_Analysis_using_Power_BI/assets/147158445/a0d46f87-5812-49fe-a319-e6e1bfdb7c5e)
 
